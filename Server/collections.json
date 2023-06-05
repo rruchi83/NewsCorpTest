@@ -1,0 +1,10 @@
+[
+    { 
+        "collectiontype": "home",
+        "collectionid": 10001
+    }, 
+    { 
+        "collectiontype": "landing", 
+        "collectionid": 10002
+    }
+]
